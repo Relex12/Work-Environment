@@ -43,10 +43,9 @@ Appearance > Hide Move Mouse window: True
 
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint): formatter and linter
 - [Markdown Table Prettifier](https://marketplace.visualstudio.com/items?itemName=darkriszty.markdown-table-prettify): table formatter
-- [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced): preview
+- [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced): preview with themes
+- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one): quality dev environment
 - [Markmap](https://marketplace.visualstudio.com/items?itemName=gera2ld.markmap-vscode): mind map preview
-- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
-- [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
 - [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf): export to pdf
 
 ### Mermaid
@@ -75,6 +74,13 @@ or
 - [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer): language support
 - [Rust Syntax](https://marketplace.visualstudio.com/items?itemName=dustypomerleau.rust-syntax): syntax highlight
 - [Rust Doc Viewer](https://marketplace.visualstudio.com/items?itemName=JScearcy.rust-doc-viewer): documentation explorer
+
+### Shell
+
+- [ShellCheck](https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck): linter
+- [shfmt](https://marketplace.visualstudio.com/items?itemName=mkhl.shfmt): formatter
+
+Note: shfmt plugin needs shfmt cli tool installed, on WSL run `sudo apt install shfmt`.
 
 ### TOML
 
